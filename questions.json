@@ -1,0 +1,502 @@
+[
+    {
+        "question": "1. निम्नलिखित में से कौन एक जीव प्रक्रिया नहीं है?",
+        "options:": {
+            "A": "Respiration (श्वसन)",
+            "B": "Reproduction (प्रजनन)",
+            "C": "Digestion (पाचन)",
+            "D": "Excretion (निर्वाचन)"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "2. पौधों की कोशिका में प्रकाश संश्लेषण किस भाग में होता है?",
+        "options:": {
+            "A": "Mitochondria (माइटोकॉन्ड्रिया)",
+            "B": "Chloroplast (क्लोरोप्लास्ट)",
+            "C": "Nucleus (न्यूक्लियस)",
+            "D": "Cytoplasm (साइटोप्लाज्म)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "3. ऑक्सीजन की उपस्थिति में भोजन का विघटन कहलाता है —",
+        "options:": {
+            "A": "Fermentation (किण्वन)",
+            "B": "Anaerobic respiration (एनारोबिक श्वसन)",
+            "C": "Aerobic respiration (एरोबिक श्वसन)",
+            "D": "Digestion (पाचन)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "4. वह रक्त वाहिका जो फेफड़ों से हृदय में ऑक्सीजन युक्त रक्त लाती है —",
+        "options:": {
+            "A": "Pulmonary artery (पल्मोनरी धमनी)",
+            "B": "Pulmonary vein (पल्मोनरी शिरा)",
+            "C": "Aorta (एओर्टा)",
+            "D": "Vena cava (वेना कावा)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "5. लार में कौन सा एंजाइम पाया जाता है?",
+        "options:": {
+            "A": "Amylase (अमाइलेज)",
+            "B": "Pepsin (पेप्सिन)",
+            "C": "Lipase (लाइपेज)",
+            "D": "Trypsin (ट्रिप्सिन)"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "6. भोजन का पूरा पाचन किस भाग में होता है?",
+        "options:": {
+            "A": "Stomach (आमाशय)",
+            "B": "Large intestine (बड़ी आंत)",
+            "C": "Small intestine (छोटी आंत)",
+            "D": "Liver (यकृत)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "7. मनुष्यों में श्वसन वर्णक कौन सा होता है?",
+        "options:": {
+            "A": "Chlorophyll (क्लोरोफिल)",
+            "B": "Melanin (मेलानिन)",
+            "C": "Haemoglobin (हीमोग्लोबिन)",
+            "D": "Keratin (केराटिन)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "8. वृक्क की उत्सर्जन इकाई कहलाती है —",
+        "options:": {
+            "A": "Neuron (न्यूरॉन)",
+            "B": "Nephron (नेफ्रॉन)",
+            "C": "Ureter (यूरेटर)",
+            "D": "Urethra (यूरेथ्रा)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "9. अमीबा किस प्रक्रिया से भोजन ग्रहण करता है?",
+        "options:": {
+            "A": "Endocytosis (एंडोसाइटोसिस)",
+            "B": "Exocytosis (एक्सोसाइटोसिस)",
+            "C": "Diffusion (विसरण)",
+            "D": "Osmosis (परासरण)"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "10. पत्तियों का हरा रंग किसके कारण होता है? ",
+        "options:": {
+            "A": "Haemoglobin (हीमोग्लोबिन)",
+            "B": "Melanin (मेलानिन)",
+            "C": "Chlorophyll (क्लोरोफिल)",
+            "D": "Xanthophyll (जैंथोफिल)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "11. नेफ्रॉन का कौन सा भाग रक्त छानता है?",
+        "options:": {
+            "A": "Tubule (ट्यबू यलू )",
+            "B": "Glomerulus (ग्लोमेरुलस)",
+            "C": "Loop of Henle (हेंले लूप)",
+            "D": "Collecting duct (संग्राहक नली)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "12. अधिक व्यायाम के दौरान ऐंठन किस कारण होती है? ",
+        "options:": {
+            "A": "Carbon dioxide (कार्बन डाइऑक्साइड)",
+            "B": "Lactic acid (लक्टिैक अम्ल)",
+            "C": "Alcohol (अल्कोहल)",
+            "D": "Urea (यरिूया)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "13. आयोडीन का प्रयोग कि सके परीक्षण के लि ए कि या जाता है?",
+        "options:": {
+            "A": "Protein (प्रोटीन)",
+            "B": "Starch (स्टार्च)",
+            "C": "Sugar (शर्करा)",
+            "D": "Fat (वसा)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "14. शीराओं में रक्त के विपरीत प्रवाह को कौन रोकता है?",
+        "options:": {
+            "A": "Valves (वाल्व)",
+            "B": "Arteries (धमनियाँ)",
+            "C": "Capillaries (केशिकाएं)",
+            "D": "RBC (लाल रक्त कोशिकाएं)"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "15. बाइल जसू कि स अगं से स्रावि त होता है?",
+        "options:": {
+            "A": "Stomach (आमाशय)",
+            "B": "Liver (यकृत)",
+            "C": "Pancreas (अग्न्याशय)",
+            "D": "Small intestine (छोटी आत)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "16. रक्त का कौन सा घटक थक्का बनाता है?",
+        "options:": {
+            "A": "RBC (लाल रक्त कोशि काएं)",
+            "B": "WBC (श्वेत रक्त कोशि काएं)",
+            "C": "Platelets (प्लेटलेट्स)",
+            "D": "Plasma (प्लाज्मा)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "17. मानव में म त्रू का सही मार्ग क्या है?",
+        "options:": {
+            "A": "Kidney → Ureter → Urinary bladder → Urethra",
+            "B": "Ureter → Kidney → Bladder → Urethra",
+            "C": "Kidney → Urethra → Bladder → Ureter",
+            "D": "Bladder → Kidney → Urethra → Ureter"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "18. फेफड़ों में गैसों का आदान-प्रदान कहां होता है?",
+        "options:": {
+            "A": "Bronchi (ब्रोन्की)",
+            "B": "Alveoli (एल्वि ओली)",
+            "C": "Trachea (श्वासनली)",
+            "D": "Bronchioles (ब्रोंकि योल्स)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "19. निम्न में से कौन स्वपोषी है?",
+        "options:": {
+            "A": "Fungi (फफूंदी)",
+            "B": "Amoeba (अमीबा)",
+            "C": "Algae (शवैल)",
+            "D": "Paramecium (परमीशियम)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "20. कौन सी रक्त कोशि का संक्रमण से लड़ती है?",
+        "options:": {
+            "A": "RBC (लाल रक्त कोशि काएं)",
+            "B": "WBC (श्वेत रक्त कोशि काएं)",
+            "C": "Platelet (प्लेटलेट)",
+            "D": "Plasma (प्लाज्मा)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "21. हृदय से शरीर के सभी भागों में रक्त कि सके द्वारा पहुंचाया जाता है?",
+        "options:": {
+            "A": "Veins (शिराएं)",
+            "B": "Arteries (धमनियां)",
+            "C": "Capillaries (केशिकाएं)",
+            "D": "Nerves (तंत्रिकाएं)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "22. पौधों में अति रि क्त भोजन कि स रूप में संग्रहि त होता है?",
+        "options:": {
+            "A": "Glycogen (ग्लाइकोजन)",
+            "B": "Glucose (ग्लकू ोज)",
+            "C": "Starch (स्टार्च)",
+            "D": "Protein (प्रोटीन)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "23. रंध्रों का खलनु और बदं होना किसके द्वारा नियंत्रित होता है?",
+        "options:": {
+            "A": "Epidermal cells (एपिडर्मल कोशिकाएं)",
+            "B": "Guard cells (गार्ड कोशिकाएं)",
+            "C": "Parenchyma (परेन्काइमा)",
+            "D": "Chloroplasts (क्लोरोप्लास्ट)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "24. निम्न में से कौन ऑक्सीजन यक्तु रक्त ले जाती है?",
+        "options:": {
+            "A": "Pulmonary artery (पल्मोनरी धमनी)",
+            "B": "Pulmonary vein (पल्मोनरी शिरा)",
+            "C": "Right atrium (दायाँ अलिदं)",
+            "D": "Vena cava (वेना कावा)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "25. निम्न में से कि सके पास चार कक्षों वाला हृदय होता है?",
+        "options:": {
+            "A": "Frog (मेंढक)",
+            "B": "Fish (मछली)",
+            "C": "Pigeon (कबतूर)",
+            "D": "Lizard (छिपकली)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "26. एककोशिकीय जीवों में उत्सर्जन किसके माध्यम से होता है?",
+        "options:": {
+            "A": "Skin (त्वचा)",
+            "B": "Contractile vacuole (संकुचनशील रिक्तिकाएं)",
+            "C": "Nephridia (नेफ्रि डि या)",
+            "D": "Lungs (फेफड़े)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "27. मानव पाचन तंत्र के किस भाग में पित्त रस छोड़ा जाता है?",
+        "options:": {
+            "A": "Large intestine (बड़ी आतं )",
+            "B": "Stomach (आमाशय)",
+            "C": "Duodenum (डुओडनेम)",
+            "D": "Rectum (रेक्टम)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "28. पौधों में ज़ाइलेम का कार्य है —",
+        "options:": {
+            "A": "Transport food (भोजन का परि वहन)",
+            "B": "Transport water (पानी का परि वहन)",
+            "C": "Transport oxygen (ऑक्सीजन का परि वहन)",
+            "D": "Transport hormones (हार्मो न का परि वहन)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "29. पेप्सिन किसका पाचन करता है?",
+        "options:": {
+            "A": "Fats (वसा)",
+            "B": "Carbohydrates (कार्बो हाइड्रेट्स)",
+            "C": "Proteins (प्रोटीन)",
+            "D": "Vitamins (विटामिन)"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "30. इंसलिु न किस ग्रंथि द्वारा उत्पन्न होती है?",
+        "options:": {
+            "A": "Pituitary (पिट्यटूरी)",
+            "B": "Liver (यकृ त)",
+            "C": "Pancreas (अग्न्याशय)",
+            "D": "Thyroid (थाइरॉइड)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "31.मानव शरीर में सबसे बड़ी ग्रंथि कौन सी है?",
+        "options:": {
+            "A": "Thyroid (थाइरॉइड)",
+            "B": "Liver (यकृत)",
+            "C": "Pancreas (अग्न्याशय)",
+            "D": "Salivary gland (लार ग्रंथि )"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "32. निगलते समय श्वासनली को बंद करने वाला पेशीय ढक्कन है —",
+        "options:": {
+            "A": "Uvula (यवूलु)",
+            "B": "Epiglottis (एपिग्लॉटिस)",
+            "C": "Pharynx (फैरिक्ंस)",
+            "D": "Larynx (लरिैक्ंस)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "33. उपापचयी अपशिष्ट को हटाने की प्रक्रिया कहलाती है —",
+        "options:": {
+            "A": "Respiration (श्वसन)",
+            "B": "Digestion (पाचन)",
+            "C": "Excretion (उत्सर्जन)",
+            "D": "Circulation (संचरण)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "34. लाइपेज किसके पाचन में सहायक होता है?",
+        "options:": {
+            "A": "Proteins (प्रोटीन)",
+            "B": "Carbohydrates (कार्बोहाइड्रेट्स)",
+            "C": "Fats (वसा)",
+            "D": "Vitamins (विटामिन)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "35. मानव वक्कृ में उत्सर्जन की मलू इकाई है ",
+        "options:": {
+            "A": "Neuron (न्यराॅन)",
+            "B": "Nephron (नेफ्रॉन)",
+            "C": "Alveoli (एल्विओली)",
+            "D": "Tubule (ट्यूब्यूल )"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "36. ग्लकोजू टटकरू बनाता है ",
+        "options:": {
+            "A": "Alcohol + CO₂",
+            "B": "Lactic acid",
+            "C": "CO₂ + Water",
+            "D": "Fat"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "37. मस्तिष्क का कौन सा भाग श्वसन को नियंत्रित करता है?",
+        "options:": {
+            "A": "Cerebrum (सेरेब्रलम)",
+            "B": "Medulla (मेडुला)",
+            "C": "Cerebellum (सेरि बेलम)",
+            "D": "Hypothalamus (हाइपोथैलेमस)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "38.  फफूंद का पोषण प्रकार क्या है?",
+        "options:": {
+            "A": "Autotrophic (स्वपोषी)",
+            "B": "Holozoic (होलोजोइक)",
+            "C": "Parasitic (परपोषी)",
+            "D": "Saprophytic (सैप्रोफाइटिक)"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "39. विली पाए जाते हैं —",
+        "options:": {
+            "A": "Large intestine (बड़ी आतं)",
+            "B": "Small intestine (छोटी आतं)",
+            "C": "Liver (यकृत)",
+            "D": "Pancreas (अग्न्याशय)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "40. निम्न में से किसका पाचन में कोई कार्य नहीं होता?",
+        "options:": {
+            "A": "Liver (यकृत)",
+            "B": "Pancreas (अग्न्याशय)",
+            "C": "Gall bladder (पित्ताशय)",
+            "D": "Small intestine (छोटी आतं)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "41. कोशिका की ऊर्जा मद्राु कहलाती है —",
+        "options:": {
+            "A": "DNA (डीएनए)",
+            "B": "RNA (आरएनए)",
+            "C": "ATP (एटीपी)",
+            "D": "ADP (एडीपी)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "42. पौधों में भोजन का परिवहन कौन करता है?",
+        "options:": {
+            "A": "Xylem (ज़ाइलेम)",
+            "B": "Phloem (फ्लोएम)",
+            "C": "Cambium (कैं बि यम)",
+            "D": "Epidermis (एपि डर्मि स)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "43. जल और खनिजों का अवशोषण किसके द्वारा होता है?",
+        "options:": {
+            "A": "Stem (तना)",
+            "B": "Leaf (पत्ती)",
+            "C": "Root hairs (मलू रोम)",
+            "D": "Flower (फूल)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "44. प्रकाश सश्ंलेषण के दौरान पौधे छोड़ते हैं —",
+        "options:": {
+            "A": "Carbon dioxide (कार्बन डाइऑक्साइड)",
+            "B": "Oxygen (ऑक्सीजन)",
+            "C": "Nitrogen (नाइट्रोजन)",
+            "D": "Hydrogen (हाइड्रोजन)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "45. प्रकाश सश्ंलेषण किसकी उपस्थिति में होता है?",
+        "options:": {
+            "A": "Darkness (अधंकार)",
+            "B": "Water (जल)",
+            "C": "Light (प्रकाश)",
+            "D": "Air (वायु)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "46. निम्न में से कौन श्वसन में भाग नहीं लेता?",
+        "options:": {
+            "A": "Lungs (फेफड़े",
+            "B": "Trachea (श्वासनली)",
+            "C": "Diaphragm (डायाफ्राम)",
+            "D": "Kidney (वृक्क)"
+        },
+        "answer": "D"
+    },
+    {
+        "question": "47. पौधों में गैसों का आदान-प्रदान होता है —",
+        "options:": {
+            "A": "Lenticels (लेंटि सल्स)",
+            "B": "Stomata (रंध्र)",
+            "C": "Chloroplast (क्लोरोप्लास्ट)",
+            "D": "Guard cells (गार्ड कोशि काएं)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "48. कार्बोहाइड्रेटस के पाचन का अंतिम उत्पाद है —",
+        "options:": {
+            "A": "Amino acids (एमिनो अम्ल)",
+            "B": "Glucose (ग्लकूोज)",
+            "C": "Fatty acids (फैटी एसिड)",
+            "D": "Glycerol (ग्लिसरॉल)"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "49. निःश्वसित वायु में अधिक मात्रा होती है?",
+        "options:": {
+            "A": "Oxygen (ऑक्सीजन)",
+            "B": "Hydrogen (हाइड्रोजन)",
+            "C": "Carbon dioxide (कार्बन डाइऑक्साइड)",
+            "D": "Nitrogen (नाइट्रोजन)"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "50. एरोबिक श्वसन में एक ग्लकोजू से कितनी ATP बनती हैं?",
+        "options:": {
+            "A": "2",
+            "B": "4",
+            "C": "38",
+            "D": "18"
+        },
+        "answer": "C"
+    }
+]
